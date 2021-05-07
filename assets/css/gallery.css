@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: #EEE;
+}
+
+.header{
+    text-align:center;
+}
+
+
+.filter-buttons button{
+    background-color: #ccc;
+    padding:6px 15px;
+    border: none;
+}
+
+.filter-buttons .filter-active{
+    background-color: #aaa;
+}
+
+* { box-sizing: border-box; }
+/*.container.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}*/
+
+
+.item {
+    float: left;
+    padding:0;
+    margin:0;
+}
+
+.item {
+    width: 50%;
+} 
+
+@media only screen and (min-width: 500px) {
+    .item {
+        width: 33.33%;
+    }
+
+    div .caption{
+        float: left;
+        width: 60%;
+    }
+
+    div .caption_tags{
+        float: right;
+        width: 40%;
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+    .item {
+        width: 25%;
+    } 
+}
+
+@media only screen and (min-width: 1200px) {
+    .item {
+        width: 20%;
+    } 
+}
+
+
+.item{
+    padding: 10px;
+}
+
+.item img{
+  display: block;
+  max-width: 100%;
+}
+
+.fancybox-caption{
+    overflow: hidden;
+}
