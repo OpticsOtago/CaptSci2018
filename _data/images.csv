@@ -1,2 +1,15 @@
 image_src,title,caption,photographer,tags,prize,category
-
+dummy_tall.jpg,Currently Unused,An abstract gradient...,Unkown Artist,cat1 cat4,,Both 1 and 4
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat3,,Just 3
+dummy_tall.jpg,,An abstract gradient...,Unkown Artist,cat2,,Just 2
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat4,,Just 4
+dummy_tall.jpg,,An abstract gradient...,Unkown Artist,cat2 cat3,,Both 2 and 3
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat1 cat2,,Both 1 and 2
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat1 cat3,,Both 1 and 3
+dummy_tall.jpg,,An abstract gradient...,Unkown Artist,cat1 cat4,,Both 1 and 4
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat2,,Just 2
+dummy_tall.jpg,,An abstract gradient...,Unkown Artist,cat3 cat4,,Both 3 and 4
+dummy_tall.jpg,,An abstract gradient...,Unkown Artist,cat2 cat4,,Both 2 and 4
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat3,,Just 3
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat3,,Just 3
+dummy_wide.jpg,,An abstract gradient...,Unkown Artist,cat2,,Just 2
